@@ -11,7 +11,8 @@ diff_match_patch.py,\
 selector.py,\
 wsgiserver,\
 ini.py,\
-textwrap.py
+textwrap.py,\
+build
 
 if [ -f "$1" -o -d "$1" ]; then
 	files=$1
